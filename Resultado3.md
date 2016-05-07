@@ -21,9 +21,11 @@ Generamos un cluster usando 4 grupos donde las similitudes resultantes mostraran
 
 Podemos ver en la tabla de centroides que se generaron 4 clusters sobre las columnas seleccionadas con los resultados de las iteraciones.
 En el modelo de clusters nos muestra:
-Cluster 0: 128 items
-Cluster 1: 320 items
-Cluster 2: 1596 items
-Cluster 3: 32 items
-Número total de items: 2076
+* Cluster 0: 128 items.
+* Cluster 1: 320 items.
+* Cluster 2: 1596 items.
+* Cluster 3: 32 items.
+* Número total de items: 2076.
 Por último vemos el grafo del resultado el cual no es muy complicado.
+
+En conclusión podemos ver que el cluster 3 contiene las versiones más descargadas ya sean en dispositivos, usuarios, actuales y diarias como también podemos observar que las aplicaciones con menor popularidad se encuentran en el cluster 2 el cual contiene una menor cantidad de instalaciones.
